@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Raul Galindo López
+- I'm from Vejer de la Frontera in Spain
+- I'm learning English and my code is in English
+- 👀 I’m interested in get a Developer Job and learn some Programming Languages
+- 🌱 I’m currently learning HTML and CSS, and i want learn JS or Back-End Languages
+- 📫 You can reach me in my social networks:
+- Twitter: https://twitter.com/RaulGL422
+- My FreeCodeCamp: https://www.freecodecamp.org/Raul422

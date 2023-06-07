@@ -1,7 +1,7 @@
-# Hola, mi nombre es Raul Galindo Lopez
+# Hi, my name is Raul Galindo Lopez
 
-### Soy un estudiante de informatica en el IES La Janda
+## I'm a Front-End Junior Developer, and I am Studing and I want work.
 
-Actualmente estoy aprendiendo a usar GitHub y aprendo programacion gracias a [FreeCodeCamp](https://www.freecodecamp.com)
+### I'm Specialist into HTML, CSS, JS, React, and more.
 
-## Mi cuenta de GitHub ira dirigido a subir mis proyectos en repositorios sobre distintos lenguajes, entre los que se encontraran HTML, CSS, JS, React y JQuery
+Now I am Studing in Youtube, practice and creating Repositories. Also, I am studing in [FreeCodeCamp](https://www.freecodecamp.com)

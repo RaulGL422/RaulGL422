@@ -1,7 +1,8 @@
-# Hi, my name is Raul Galindo Lopez
+Hola, mi nombre es **Raúl Galindo López**, estudiante de FPGS de Desarrollo de Aplicaciones Multiplataforma en el [IES Fernando Aguilar Quignon](https://www.iesfernandoaguilar.es/) (Cádiz).
 
-## I'm a Front-End Junior Developer, and I am Studing and I want work.
+Me dedico al BackEnd con Java y aprendo cada día mucho más.
 
-### I'm Specialist into HTML, CSS, JS, React, and more.
+*He participado en la edicion 2024 de [Programame](https://programame.com/2024/nac/) con los siguientes puestos:*
 
-Now I am Studing in Youtube, practice and creating Repositories. Also, I am studing in [FreeCodeCamp](https://www.freecodecamp.com)
+ **Subcampeón** en el Regional de Cádiz (Participación de Andalucia Oriental).
+- **Decimo puesto** en la final nacional (Participación de toda España).
